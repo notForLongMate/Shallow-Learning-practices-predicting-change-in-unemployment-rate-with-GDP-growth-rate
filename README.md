@@ -8,7 +8,7 @@ For pros: Sorry I am a non cs major who want to build something cool, if you fou
 
 Installation:
 1. For beginner, you may simply download the .zip file after pressing the greed "<>code" button.
-   for Pros, you may try git clone https://github.com/notForLongMate/Shallow-Learning-practices-predicting-change-in-unemployment-rate-with-GDP-growth-rate.git
+   for Pros, you may try "git clone https://github.com/notForLongMate/Shallow-Learning-practices-predicting-change-in-unemployment-rate-with-GDP-growth-rate.git" in Git Bash, ig?
 
 2. Open the project.ipynb with suitable tools like vs code or jupyter notebook.
 
