@@ -1,4 +1,4 @@
-Just Unemployment-rate Prediction Acting System (JUPAS)
+Just Unemployment-rate Prediction Analysis System (JUPAS)
 
 This project is my ENGG1003 course final individual project. It is mainly about how I programed a machine learning model to predict the % change in unemployment rate with GDP growth rate as input (according to Okun's Law they have negative relationship)
 The data used to train the model is from Hong Kong (https://www.censtatd.gov.hk/en/web_table.html?id=210-06401&f & https://www.censtatd.gov.hk/en/web_table.html?id=310-30001&full_series=1&download_csv=1#) with further cleansing and modification, so it may not be suitable to predict datas in your region or country. But you may try to change the data to see if it fits.
